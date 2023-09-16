@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\David_Nixon_Learn.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\David_Nixon_Learn.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\David_Nixon_LearnEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\David_Nixon_Learn">
+      <UniqueIdentifier>{D30CE49E-C40C-3E26-B239-7BD277A6057C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\David_Nixon_Learn\David_Nixon_Learn.Build.cs">
+      <Filter>Source\David_Nixon_Learn</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\David_Nixon_Learn\David_Nixon_Learn.cpp">
+      <Filter>Source\David_Nixon_Learn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\David_Nixon_Learn\David_Nixon_Learn.h">
+      <Filter>Source\David_Nixon_Learn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\David_Nixon_Learn\David_Nixon_LearnCharacter.cpp">
+      <Filter>Source\David_Nixon_Learn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\David_Nixon_Learn\David_Nixon_LearnCharacter.h">
+      <Filter>Source\David_Nixon_Learn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\David_Nixon_Learn\David_Nixon_LearnGameMode.cpp">
+      <Filter>Source\David_Nixon_Learn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\David_Nixon_Learn\David_Nixon_LearnGameMode.h">
+      <Filter>Source\David_Nixon_Learn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\David_Nixon_Learn\David_Nixon_LearnProjectile.cpp">
+      <Filter>Source\David_Nixon_Learn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\David_Nixon_Learn\David_Nixon_LearnProjectile.h">
+      <Filter>Source\David_Nixon_Learn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\David_Nixon_Learn\TP_PickUpComponent.cpp">
+      <Filter>Source\David_Nixon_Learn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\David_Nixon_Learn\TP_PickUpComponent.h">
+      <Filter>Source\David_Nixon_Learn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\David_Nixon_Learn\TP_WeaponComponent.cpp">
+      <Filter>Source\David_Nixon_Learn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\David_Nixon_Learn\TP_WeaponComponent.h">
+      <Filter>Source\David_Nixon_Learn</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

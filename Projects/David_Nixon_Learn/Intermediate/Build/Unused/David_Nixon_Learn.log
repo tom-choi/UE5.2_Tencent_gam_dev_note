@@ -1,0 +1,8 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -Target="David_Nixon_LearnEditor Win64 Development -Project=\"G:\github\UE5.2_Tencent_gam_dev_note\Projects\David_Nixon_Learn\David_Nixon_Learn.uproject\"" -Target="ShaderCompileWorker Win64 Development -Quiet" -WaitMutex -FromMsBuild
+  Log file: G:\github\UnrealEngine\Engine\Programs\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (G:\github\UnrealEngine).
+  Waiting for 'git status' command to complete
+  Creating makefile for ShaderCompileWorker (no existing makefile)
+  Targets are up to date
+  Total execution time: 408.95 seconds

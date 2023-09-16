@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\github\\ue5.2_tencent_gam_dev_note\\projects\\david_nixon_learn\\intermediate\\build\\win64\\unrealeditor\\inc\\david_nixon_learn\\uht\\tp_pickupcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\github\\unrealengine\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "g:\\github\\ue5.2_tencent_gam_dev_note\\projects\\david_nixon_learn\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\david_nixon_learn\\definitions.david_nixon_learn.h",
+            "g:\\github\\ue5.2_tencent_gam_dev_note\\projects\\david_nixon_learn\\source\\david_nixon_learn\\tp_pickupcomponent.h",
+            "g:\\github\\unrealengine\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "g:\\github\\unrealengine\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "g:\\github\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "g:\\github\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "g:\\github\\ue5.2_tencent_gam_dev_note\\projects\\david_nixon_learn\\source\\david_nixon_learn\\david_nixon_learncharacter.h",
+            "g:\\github\\unrealengine\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "g:\\github\\unrealengine\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "g:\\github\\unrealengine\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "g:\\github\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "g:\\github\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "g:\\github\\unrealengine\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "g:\\github\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "g:\\github\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "g:\\github\\unrealengine\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "g:\\github\\unrealengine\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "g:\\github\\ue5.2_tencent_gam_dev_note\\projects\\david_nixon_learn\\intermediate\\build\\win64\\unrealeditor\\inc\\david_nixon_learn\\uht\\david_nixon_learncharacter.generated.h",
+            "g:\\github\\ue5.2_tencent_gam_dev_note\\projects\\david_nixon_learn\\intermediate\\build\\win64\\unrealeditor\\inc\\david_nixon_learn\\uht\\tp_pickupcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\github\\ue5.2_tencent_gam_dev_note\\projects\\david_nixon_learn\\source\\david_nixon_learn\\david_nixon_learnprojectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\github\\unrealengine\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "g:\\github\\ue5.2_tencent_gam_dev_note\\projects\\david_nixon_learn\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\david_nixon_learn\\definitions.david_nixon_learn.h",
+            "g:\\github\\ue5.2_tencent_gam_dev_note\\projects\\david_nixon_learn\\source\\david_nixon_learn\\david_nixon_learnprojectile.h",
+            "g:\\github\\ue5.2_tencent_gam_dev_note\\projects\\david_nixon_learn\\intermediate\\build\\win64\\unrealeditor\\inc\\david_nixon_learn\\uht\\david_nixon_learnprojectile.generated.h",
+            "g:\\github\\unrealengine\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "g:\\github\\unrealengine\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "g:\\github\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "g:\\github\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h",
+            "g:\\github\\unrealengine\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "g:\\github\\unrealengine\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "g:\\github\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "g:\\github\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FBAC7D36-4B76-D8F9-A291-44B6A8315C81}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "David_Nixon_Learn",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
